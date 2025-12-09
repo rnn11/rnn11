@@ -1,8 +1,8 @@
-# 👩🏻‍💻 Renan
+# 👨🏻‍💻 Renan
 
-**`Desenvolvedoro Front-end`**
+**`Desenvolvedor Front-end`**
 
-Me chamo Renan Mendes Reinoso, tenho 18 anos e sou natural de São Paulo. Concluí o ensino médio no SESI/SENAI, com o curso técnico de Desenvolvimento de Sistemas.
+Me chamo Renan Mendes Reinoso, tenho 18 anos e sou natural de São Paulo. Concluí o ensino médio no SESI/SENAI, com o curso técnico de Desenvolvimento de Sistemas.<br/>
 Sou apaixonado por tecnologia.
 
 
@@ -11,8 +11,7 @@ Sou apaixonado por tecnologia.
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/rnn11?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
+            src="https://custom-icon-badges.demolab.com/github/stars/rnn11?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"/>
     </a>
     <a href="https://github.com/rnn11?tab=followers">
         <img 
@@ -95,8 +94,3 @@ Sou apaixonado por tecnologia.
           
 
 <br/>
-<br/>
-
-### 📊 Estatísticas
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs,prs)
