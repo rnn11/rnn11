@@ -5,11 +5,20 @@
 Me chamo Renan Mendes Reinoso, tenho 18 anos e sou natural de São Paulo. Concluí o ensino médio no SESI/SENAI, com o curso Análise e Desenvolvimento de Sistemas.
 Sou apaixonado por tecnologia
 
+
 <p align="left">
+    <a href="https://www.youtube.com/@larissakich?sub_confirmation=1">
         <img 
+            alt="youtube subscribers" 
+            title="Inscreva-se no meu canal" 
+            src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
         />
     </a>
+    <a href="https://www.youtube.com/@larissakich">
         <img 
+            alt="youtube views" 
+            title="Vizualizações no YouTube" 
+            src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"
         />
     </a> 
     <a href="https://github.com/rnn11?tab=repositories&sort=stargazers">
@@ -19,7 +28,12 @@ Sou apaixonado por tecnologia
             src="https://custom-icon-badges.demolab.com/github/stars/Larissakich?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
     </a>
-    <a href="https://github.com/rnn1?tab=followers">
+    <a href="https://github.com/rnn11?tab=followers">
+        <img 
+            alt="Seguidores" 
+            title="Me siga no GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/followers/Larissakich?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+        />
     </a>
 </p>
 
