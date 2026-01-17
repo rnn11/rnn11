@@ -20,8 +20,7 @@
 
 ###
 
-<h3 align="left">👩‍💻  Me chamo Renan Mendes Reinoso, tenho 18 anos e sou natural de São Paulo. Concluí o ensino médio no SESI/SENAI, com o curso técnico de Desenvolvimento de Sistemas.
-Sou apaixonado por tecnologia.</h3>
+<h3 align="left">👩‍💻  My name is Renan Mendes Reinoso, I'm 18 years old and from São Paulo. I completed high school at SESI/SENAI, with the technical course in Systems Development. I'm passionate about technology..</h3>
 
 ###
 
@@ -57,9 +56,5 @@ Sou apaixonado por tecnologia.</h3>
 <h3 align="left">🔥   My Stats :</h3>
 
 ###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=rnn11&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
 
 ###
