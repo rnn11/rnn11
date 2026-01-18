@@ -24,7 +24,7 @@
 
 ###
 
-<p align="left">🔭 I’m working as web/mobile developer<br>- 📚 I'm currently learning more about TypeScript<br></p>
+<p align="left">🔭 I’m working as web/mobile developer<br>- 📚 I'm currently learning more about JavaScript<br></p>
 
 ###
 
